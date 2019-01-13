@@ -107,4 +107,4 @@ Please see [CONTRIBUTING.md](https://github.com/arkadiyt/aws_public_ips/blob/mas
 
 ### Getting in touch
 
-Feel free to tweet or direct message me: [@arkadiyt](https://twitter.com/arkadiyt)
+Feel free to tweet or direct message me: [@oneplus-x](https://twitter.com/oneplus)
